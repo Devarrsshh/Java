@@ -1,3 +1,5 @@
+package com.company;
+
 public class cwh_15_ps3 {
     public static void main(String[] args) {
         // problem 1

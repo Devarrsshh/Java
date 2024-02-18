@@ -1,3 +1,5 @@
+package com.company;
+
 public class cwh_12_ps2_pr02 {
     public static void main(String[] args) {
         char grade = 'b';

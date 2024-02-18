@@ -1,3 +1,5 @@
+package com.company;
+
 public class CWH_08_Operators {
     public static void main(String[] args) {
         // 1. Arithmetic operators

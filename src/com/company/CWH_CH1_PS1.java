@@ -1,3 +1,5 @@
+package com.company;
+
 import java.util.Scanner;
 
 public class CWH_CH1_PS1 {

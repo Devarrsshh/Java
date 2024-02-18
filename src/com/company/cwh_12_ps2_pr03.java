@@ -1,3 +1,5 @@
+package com.company;
+
 import java.util.Scanner;
 
 public class cwh_12_ps2_pr03 {
