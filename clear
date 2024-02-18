@@ -1,0 +1,12 @@
+[1mdiff --git a/src/com/company/CWH_17_logical.java b/src/com/company/CWH_17_logical.java[m
+[1mindex 0037e1e..48b9fdd 100644[m
+[1m--- a/src/com/company/CWH_17_logical.java[m
+[1m+++ b/src/com/company/CWH_17_logical.java[m
+[36m@@ -23,5 +23,7 @@[m [mpublic class CWH_17_logical {[m
+         System.out.println(!a);[m
+         System.out.print("Not(b) is ");[m
+         System.out.println(!b);[m
+[32m+[m[32m        System.out.println("ok");[m
+[32m+[m
+     }[m
+ }[m
