@@ -1,6 +1,6 @@
 package com.company;
 
-public class CWH_25_practiceSet4 {
+public class CWH_25_practiceSet5 {
     public static void main(String[] args) {
         // Problem pattern 1
         /*int n = 4;
