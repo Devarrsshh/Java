@@ -2,7 +2,6 @@ package com.company;
 
 public class cwh_24_BreakAndContinue {
     public static void main(String[] args) {
-
         // Break and continue using loops!
 //        for (int i=0;i<50;i++){
 //            System.out.println(i);
