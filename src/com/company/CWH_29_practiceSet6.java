@@ -1,5 +1,7 @@
 package com.company;
 
+import org.w3c.dom.ls.LSOutput;
+
 public class CWH_29_practiceSet6 {
     public static void main(String[] args) {
         // Practice problem 1
