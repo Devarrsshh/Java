@@ -50,7 +50,7 @@ public class CWH_25_practiceSet5 {
         System.out.println(factorial);*/
 
         // practice problem 7
-        /*int n=4;
+       /*int n=4;
         int i=n;
         while(i>0) {
             i--;

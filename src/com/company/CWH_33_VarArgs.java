@@ -3,6 +3,7 @@ package com.company;
 public class CWH_33_VarArgs {
     static int add(int ...arr){
         int result = 0;
+        int b = arr.length;
         for(int a: arr){
              result += a;
         }
