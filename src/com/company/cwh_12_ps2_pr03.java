@@ -8,6 +8,8 @@ public class cwh_12_ps2_pr03 {
         System.out.println("Write your number");
         int a = sc.nextInt();
         System.out.println(a > 8);
+
+        // problem 4
         System.out.println(7 * 49 / 7 + 35 / 7);
     }
 }
