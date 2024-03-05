@@ -4,11 +4,11 @@ public class CWH_17_logical {
         System.out.println("For logical AND....");
         boolean a = true;
         boolean b = false;
-        //if (a && b) {
-        //    System.out.println("y");
-        //} else {
-        //    System.out.println("N");
-        //}
+      /*  if (a && b) {
+            System.out.println("y");
+        } else {
+           System.out.println("N");
+        }*/
 
         /*System.out.println("For logical OR....");
         if (a || b) {
