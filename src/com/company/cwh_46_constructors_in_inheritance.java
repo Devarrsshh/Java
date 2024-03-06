@@ -26,7 +26,7 @@ class childOfDerived extends derived1{
         System.out.println("I am an overloaded constructor od derived with value os z as " + z);
     }
 }
-public class cwh46_constructors_in_inheritance {
+public class cwh_46_constructors_in_inheritance {
     public static void main(String[] args) {
         //base1 b = new base1();
         //derived1 d =new derived1();
