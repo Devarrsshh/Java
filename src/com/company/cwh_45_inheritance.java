@@ -24,7 +24,7 @@ package com.company;
             this.y = y;
         }
     }
-public class cwh_45 {
+public class cwh_45_inheritance {
     public static void main(String[] args) {
         base b = new base();
         b.setX(4);
