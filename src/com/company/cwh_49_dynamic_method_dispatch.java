@@ -18,14 +18,14 @@ class smartphone extends phone{
 }
 public class cwh_49_dynamic_method_dispatch {
     public static void main(String[] args) {
-        phone obj = new phone();
+        phone p = new phone();
         smartphone sp = new smartphone();
 
-        //obj = new smartphone(); // allowed
+        //p = new smartphone(); // allowed
         // sp = new phone(); // not allowed
 
-        //obj.on(); // allowed
-        //obj.showtime(); // allowed
-        //obj.music(); // not allowed
+        p.on(); // allowed
+        p.showtime(); // allowed
+        //p.music(); // not allowed
     }
 }
