@@ -1,7 +1,9 @@
 package com.company;
 
 
-    class base {
+import org.w3c.dom.ls.LSOutput;
+
+class base {
         int x;
 
         public int getX() {
@@ -13,6 +15,7 @@ package com.company;
             this.x = x;
         }
     }
+
     class derived extends base{
         public int y;
 

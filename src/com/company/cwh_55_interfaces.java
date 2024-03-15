@@ -1,4 +1,4 @@
-package com.company;
+package com.company; // This example is taken from web3school
 interface Animal{
     void animalSound();
     void sleep();
