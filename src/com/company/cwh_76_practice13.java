@@ -15,7 +15,6 @@ class Practice13b extends Thread{
         }
             catch(Exception e) {
                 System.out.println(e);
-
             }
         }
     }
